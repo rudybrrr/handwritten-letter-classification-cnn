@@ -1,5 +1,8 @@
 # Handwritten Letter Classification with CNNs
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rudhresh_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudhresh-r/)
+[![GitHub](https://img.shields.io/badge/GitHub-rudybrrr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudybrrr)
+
 A 26-class handwritten-letter classification project using 28×28 grayscale images and convolutional neural networks.
 
 ![Final test confusion matrix](assets/final_test_confusion_matrix.png)
